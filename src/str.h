@@ -9,168 +9,168 @@ JP(IDS_1, "51")
 CN(IDS_1, "51")
 
 JP(IDS_2, "ゲームクリアー")
-CN(IDS_2, "恭喜您通关了")
+CN(IDS_2, "ゲームクリアー")
 
 JP(IDS_3, "プレイしてくれてありがとー")
-CN(IDS_3, "感谢您体验我们的游戏")
+CN(IDS_3, "プレイしてくれてありがとー")
 
-JP(IDS_4, "WELCOME TO OWATA ZONE")
-CN(IDS_4, "貌似发现了隐藏的关卡")
+JP(IDS_4, "オワタゾーンへようこそ")
+CN(IDS_4, "隠れたステージを発見したようです。")
 
-JP(IDS_SCORE, "SCORE")
-CN(IDS_SCORE, "分数")
+JP(IDS_SCORE, "スコア")
+CN(IDS_SCORE, "スコア")
 
-JP(IDS_LEVEL, "LEVEL %d-%d")
-CN(IDS_LEVEL, "关卡 %d-%d")
+JP(IDS_LEVEL, "レベル %d-%d")
+CN(IDS_LEVEL, "レベル %d-%d")
 
-JP(IDS_HISCORE, "HISCORE")
-CN(IDS_HISCORE, "最高分")
+JP(IDS_HISCORE, "最高得点(ハイスコア)")
+CN(IDS_HISCORE, "最高得点")
 
 // 碰到云时
 JP(IDS_MSG_1, "お、おいしい!!")
-CN(IDS_MSG_1, "好吃!!")
+CN(IDS_MSG_1, "美味しい!!")
 
 // 吃到没有毒的蘑菇时
 JP(IDS_MSG_2, "毒は無いが……")
-CN(IDS_MSG_2, "虽然没有毒...")
+CN(IDS_MSG_2, "毒はないけど...")
 
 // 碰到星星室
 JP(IDS_MSG_3, "刺さった!!")
-CN(IDS_MSG_3, "被刺死了!!")
+CN(IDS_MSG_3, "刺さった!!")
 
 // 吃到毒蘑菇时
 JP(IDS_MSG_10, "食べるべきではなかった!!")
-CN(IDS_MSG_10, "吃蘑菇才不会变大呢..")
+CN(IDS_MSG_10, "食べるべきではなかった")
 
 // 吃到花时
 JP(IDS_MSG_11, "俺は燃える男だ!!")
-CN(IDS_MSG_11, "肚子里有火球，烫死了!!")
+CN(IDS_MSG_11, "俺は燃える男だ!!")
 
 // 碰到火球时
 JP(IDS_MSG_50, "体が……焼ける……")
-CN(IDS_MSG_50, "身体烧着了……")
+CN(IDS_MSG_50, "か…体が…焼ける……")
 
 // 被机关扎到
 JP(IDS_MSG_51, "たーまやー!!")
-CN(IDS_MSG_51, "这...!!")
+CN(IDS_MSG_51, "たーまやー!!")
 
 // 走进水管里
 JP(IDS_MSG_52, "見事にオワタ")
-CN(IDS_MSG_52, "死路一条")
+CN(IDS_MSG_52, "見事に死んだよ")
 
 JP(IDS_MSG_53, "足が、足がぁ!!")
-CN(IDS_MSG_53, "我的脚、我的脚啊!!")
+CN(IDS_MSG_53, "あ、あ、足がぁ!!")
 
 JP(IDS_MSG_54, "流石は摂氏800度!!")
-CN(IDS_MSG_54, "不愧是摄氏800度!!")
+CN(IDS_MSG_54, "さすが摂氏800度です!!")
 
 JP(IDS_MSG_55, "溶岩と合体したい……")
-CN(IDS_MSG_55, "烫死了……")
+CN(IDS_MSG_55, "死ぬほど熱くなった。……")
 
 // 普通小怪
 JP(IDS_AMSG_1001, "ヤッフー!!")
-CN(IDS_AMSG_1001, "Yeah!!")
+CN(IDS_AMSG_1001, "ヤッフー!!")
 
 JP(IDS_AMSG_1002, "え?俺勝っちゃったの?")
-CN(IDS_AMSG_1002, "恩？这样就赢了？")
+CN(IDS_AMSG_1002, "え？勝ちですか?")
 
 JP(IDS_AMSG_1003, "貴様の死に場所はここだ!")
-CN(IDS_AMSG_1003, "简直是不堪一击!")
+CN(IDS_AMSG_1003, "まったく一撃に耐えられない雑魚だな。!")
 
 JP(IDS_AMSG_1004, "二度と会う事もないだろう")
-CN(IDS_AMSG_1004, "你确定你会打游戏？")
+CN(IDS_AMSG_1004, "二度と会う事もないだろう？")
 
 JP(IDS_AMSG_1005, "俺、最強!!")
-CN(IDS_AMSG_1005, "我是最强的!!")
+CN(IDS_AMSG_1005, "俺、最強!!")
 
 JP(IDS_AMSG_1006, "一昨日来やがれ!!")
-CN(IDS_AMSG_1006, "没见过这么笨的!!")
+CN(IDS_AMSG_1006, "一昨日来やがれ!!")
 
 JP(IDS_AMSG_1007, "漢に後退の二文字は無い!!")
-CN(IDS_AMSG_1007, "冲啊!!")
+CN(IDS_AMSG_1007, "漢に後退の二文字は無い!!")
 
 JP(IDS_AMSG_1008, "ハッハァ!!")
-CN(IDS_AMSG_1008, "哈哈!!")
+CN(IDS_AMSG_1008, "ハァハァ!!")
 
 
 JP(IDS_AMSG_1011, "ヤッフー!!")
-CN(IDS_AMSG_1011, "...")
+CN(IDS_AMSG_1011, "ザーコザーコw")
 
 JP(IDS_AMSG_1012, "え?俺勝っちゃったの?")
-CN(IDS_AMSG_1012, "完全不是我的对手")
+CN(IDS_AMSG_1012, "え?俺勝っちゃったの?")
 
 JP(IDS_AMSG_1013, "貴様の死に場所はここだ!")
-CN(IDS_AMSG_1013, "这里就是你的归宿!")
+CN(IDS_AMSG_1013, "貴様の死に場所はここだ!")
 
 JP(IDS_AMSG_1014, "身の程知らずが……")
-CN(IDS_AMSG_1014, "你这个不知天高地厚的家伙……")
+CN(IDS_AMSG_1014, "身の程知らずが……")
 
 JP(IDS_AMSG_1015, "油断が死を招く")
-CN(IDS_AMSG_1015, "少看不起我了")
+CN(IDS_AMSG_1015, "油断が死を招く")
 
 JP(IDS_AMSG_1016, "おめでたい奴だ")
-CN(IDS_AMSG_1016, "菜鸟一个")
+CN(IDS_AMSG_1016, "おめでたい奴だ")
 
 JP(IDS_AMSG_1017, "屑が!!")
-CN(IDS_AMSG_1017, "笨死了!!")
+CN(IDS_AMSG_1017, "か、か、肩ガァ!!")
 
 JP(IDS_AMSG_1018, "無謀な……")
-CN(IDS_AMSG_1018, "太乱来了……")
+CN(IDS_AMSG_1018, "無謀な……")
 
 
 JP(IDS_AMSG_1021, "ヤッフー!!")
-CN(IDS_AMSG_1021, "Yes!!")
+CN(IDS_AMSG_1021, "ヤッフー!!")
 
 JP(IDS_AMSG_1022, "え?俺勝っちゃったの?")
-CN(IDS_AMSG_1022, "我就这么赢了吗?")
+CN(IDS_AMSG_1022, "え?俺勝っちゃったの?")
 
 JP(IDS_AMSG_1023, "二度と会う事もないだろう")
-CN(IDS_AMSG_1023, "你还是放弃吧")
+CN(IDS_AMSG_1023, "二度と会う事もないだろう")
 
 JP(IDS_AMSG_1024, "身の程知らずが……")
-CN(IDS_AMSG_1024, "就你也敢跟我斗？")
+CN(IDS_AMSG_1024, "身の程知らずが……")
 
 JP(IDS_AMSG_1025, "僕は……負けない!!")
-CN(IDS_AMSG_1025, "我是不会输的!!")
+CN(IDS_AMSG_1025, "僕は……負けない!!")
 
 JP(IDS_AMSG_1026, "貴様に見切れる筋は無い")
-CN(IDS_AMSG_1026, "我这招是不会被你识破的")
+CN(IDS_AMSG_1026, "貴様に見切れる筋は無い")
 
 JP(IDS_AMSG_1027, "今死ね、すぐ死ね、骨まで砕けろ!!")
-CN(IDS_AMSG_1027, "去死吧!!")
+CN(IDS_AMSG_1027, "今死ね、すぐ死ね、骨まで砕けろ!!")
 
 JP(IDS_AMSG_1028, "任務完了!!")
-CN(IDS_AMSG_1028, "任務完成!!")
+CN(IDS_AMSG_1028, "任務完了!!")
 
 
 JP(IDS_AMSG_1031, "ヤッフー!!")
 CN(IDS_AMSG_1031, "Yahoo!!")
 
 JP(IDS_AMSG_1032, "え?俺勝っちゃったの?")
-CN(IDS_AMSG_1032, "就这么赢了?")
+CN(IDS_AMSG_1032, "え?俺勝っちゃったの?")
 
 JP(IDS_AMSG_1033, "貴様の死に場所はここだ!")
-CN(IDS_AMSG_1033, "今天就是您的死期了!")
+CN(IDS_AMSG_1033, "貴様の死に場所はここだ!")
 
 JP(IDS_AMSG_1034, "身の程知らずが……")
-CN(IDS_AMSG_1034, "居然敢碰我……")
+CN(IDS_AMSG_1034, "身の程知らずが……")
 
 JP(IDS_AMSG_1035, "油断が死を招く")
-CN(IDS_AMSG_1035, "大意了吧")
+CN(IDS_AMSG_1035, "油断が死を招く")
 
 JP(IDS_AMSG_1036, "おめでたい奴だ")
-CN(IDS_AMSG_1036, "你也没那么厉害么")
+CN(IDS_AMSG_1036, "おめでたい奴だ")
 
 JP(IDS_AMSG_1037, "屑が!!")
-CN(IDS_AMSG_1037, "笨蛋!")
+CN(IDS_AMSG_1037, "か、か、肩ガァ!")
 
 JP(IDS_AMSG_1038, "無謀な……")
-CN(IDS_AMSG_1038, "太乱来了……")
+CN(IDS_AMSG_1038, "無謀な……")
 
 
 // 碰到乌龟时
 JP(IDS_AMSG_15, "鉄壁!!よって、無敵!!")
-CN(IDS_AMSG_15, "我有壳，我是无敌的!!")
+CN(IDS_AMSG_15, "鉄壁!!よって、無敵!!")
 
 JP(IDS_AMSG_16, "丸腰で勝てるとでも?")
 CN(IDS_AMSG_16, "你就这身垃圾装备还想赢我?")
