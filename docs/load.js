@@ -130,7 +130,7 @@ $('#settings_onehand').change(function() {
 });
 
 $('#settings_cleardata').click(function() {
-  if (confirm('游戏进度将被删除，确定吗？')) {
+  if (confirm('本当にデータを消しちゃって良いの？')) {
     Module['_dlm_reset']();
   }
 });
